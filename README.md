@@ -24,10 +24,10 @@ This project demonstrates hands-on DevSecOps practices including:
 
 devsecops-security-lab
 
-1. scripts/ : # automation scripts
-2. configs/ : # configuration files
-3. tests/ : # testing scripts
-4. docs/ : # documentation
+1. scripts/ : Automation scripts
+2. configs/ : Configuration files
+3. tests/ : Testing scripts
+4. docs/ : Documentation
 
 ## Status
 
