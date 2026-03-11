@@ -23,10 +23,11 @@ This project demonstrates hands-on DevSecOps practices including:
 ## Project Structure
 
 devsecops-security-lab
-scripts/ : # automation scripts
-configs/ : # configuration files
-tests/ : # testing scripts
-docs/ : # documentation
+
+1. scripts/ : # automation scripts
+2. configs/ : # configuration files
+3. tests/ : # testing scripts
+4. docs/ : # documentation
 
 ## Status
 
