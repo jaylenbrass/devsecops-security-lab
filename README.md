@@ -20,6 +20,15 @@ This project demonstrates hands-on DevSecOps practices including:
 2. Demonstrate DevSecOps workflow
 3. Practice secure development pipelines
 
+## Project Structure
+
+devsecops-security-lab
+│
+├── scripts/   # automation scripts
+├── configs/   # configuration files
+├── tests/     # testing scripts
+├── docs/      # documentation
+
 ## Status
 
 🚧 Project in progress 
