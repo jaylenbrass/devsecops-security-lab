@@ -30,6 +30,13 @@ devsecops-security-lab
 3. tests/ : Testing scripts
 4. docs/ : Documentation
 
+## Project Roadmap
+
+- [ ] Dependency vulnerability scanner
+- [ ] Container security scan
+- [ ] Security automation script
+- [ ] Documentation
+
 ## Status
 
 🚧 Project in progress 
