@@ -1,49 +1,43 @@
+
 # DevSecOps Security Lab
 
-This project demonstrates hands-on DevSecOps practices including:
+A hands-on DevSecOps project demonstrating automated dependency vulnerability scanning.
 
-- Security automation
-- Container security
-- CI/CD security scanning
-- Infrastructure security testing
+## Features
+
+- Automated dependency vulnerability scanning
+- Security automation with Python
+- Organized DevSecOps project structure
 
 ## Tools Used
 
-- GitHub
 - Python
-- Docker
-- Security scanners
+- pip-audit
+- Git
+- GitHub
 
-## Project Goals
+## Installation
 
-1. Automate security checks
-2. Demonstrate DevSecOps workflow
-3. Practice secure development pipelines
+Clone the repository:
+
+git clone https://github.com/jaylenbrass/devsecops-security-lab.git
+
+Install the dependency scanner:
+
+pip install pip-audit
+
+## Usage
+
+Run the scanner:
+
+python scripts/dependency_scan.py
 
 ## Project Structure
 
 devsecops-security-lab
-
-1. scripts/ : Automation scripts
-2. configs/ : Configuration files
-3. tests/ : Testing scripts
-4. docs/ : Documentation
-
-## Project Roadmap
-
-- Dependency vulnerability scanner
-- Container security scan
-- Security automation script
-- Documentation
-
-## Security Tools
-
-This project includes a dependency vulnerability scanner using pip-audit.
-
-Run the scanner with:
-
-python3 scripts/dependency_scan.py
-
-## Status
-
-🚧 Project in progress 
+│
+├── scripts/
+├── configs/
+├── tests/
+├── docs/
+└── README.md
