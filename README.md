@@ -19,7 +19,6 @@ This project demonstrates hands-on DevSecOps practices including:
 1. Automate security checks
 2. Demonstrate DevSecOps workflow
 3. Practice secure development pipelines
-4. Learning DevSecOps step by step 
 
 ## Project Structure
 
