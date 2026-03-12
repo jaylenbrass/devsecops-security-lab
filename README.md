@@ -32,10 +32,10 @@ devsecops-security-lab
 
 ## Project Roadmap
 
-- [ ] Dependency vulnerability scanner
-- [ ] Container security scan
-- [ ] Security automation script
-- [ ] Documentation
+- Dependency vulnerability scanner
+- Container security scan
+- Security automation script
+- Documentation
 
 ## Status
 
