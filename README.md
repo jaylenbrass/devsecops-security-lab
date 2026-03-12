@@ -36,6 +36,14 @@ devsecops-security-lab
 - Security automation script
 - Documentation
 
+## Security Tools
+
+This project includes a dependency vulnerability scanner using pip-audit.
+
+Run the scanner with:
+
+python scripts/dependency_scan.py
+
 ## Status
 
 🚧 Project in progress 
