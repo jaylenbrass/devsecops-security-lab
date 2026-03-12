@@ -42,7 +42,7 @@ This project includes a dependency vulnerability scanner using pip-audit.
 
 Run the scanner with:
 
-python scripts/dependency_scan.py
+python3 scripts/dependency_scan.py
 
 ## Status
 
