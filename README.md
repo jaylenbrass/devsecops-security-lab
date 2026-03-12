@@ -35,7 +35,6 @@ python scripts/dependency_scan.py
 ## Project Structure
 
 devsecops-security-lab
-│
 ├── scripts/
 ├── configs/
 ├── tests/
