@@ -6,7 +6,7 @@ print("===================================")
 
 print("Running security scan...\n")
 
-subprocess.run(["pip-audit"])
+subprocess.run(["python3", "-m", "pip_audit"])
 
 print("\nScan finished. Starting dependency vulnerability scan...")
 
