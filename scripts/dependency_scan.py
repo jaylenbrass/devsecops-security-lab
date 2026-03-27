@@ -10,6 +10,5 @@ subprocess.run(["pip-audit"])
 
 print("\nScan finished. Starting dependency vulnerability scan...")
 
-subprocess.run(["pip-audit"])
 
 print("Scan completed.")
